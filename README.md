@@ -1,8 +1,6 @@
 # Blue Music
 
-Simple Blazor Server team pet-project to practice in Web Development.
-
-[Here is the link to the site](https://bluemusic.com.ua/)
+Blazor Server team project to practice in Web Development.
 
 ![image](https://github.com/Oyne/MusicPlayer/assets/60883514/d1860513-94d0-4d0c-85f3-c5b67934e2d9)
 
